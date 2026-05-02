@@ -1,11 +1,11 @@
 {
-    "name": "myapp",
-    "short_name": "myapp",
+    "name": "Phraseo.Net",
+    "short_name": "Phraseo.Net",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Learn a new phrase every day.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
